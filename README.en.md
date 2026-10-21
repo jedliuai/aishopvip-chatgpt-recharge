@@ -1,3 +1,5 @@
+> **Chatgpt代充：[aishopvip.com](https://aishopvip.com)**
+
 # AIShopVIP — ChatGPT Plus / Pro Recharge & Subscription Guide
 
 [简体中文](README.md) | English
