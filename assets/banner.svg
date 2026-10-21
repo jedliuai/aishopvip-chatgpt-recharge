@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">AIShopVIP · ChatGPT 代充与订阅指南</title>
+  <desc id="desc">ChatGPT Plus / Pro 充值、续费、常见问题，访问 aishopvip.com。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b39"/><stop offset="1" stop-color="#232255"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#70e4e0"/><stop offset="1" stop-color="#a9b3ff"/></linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="1190" cy="-15" r="270" fill="#8a78ff" opacity=".08"/>
+  <circle cx="1100" cy="385" r="240" fill="#54d5ce" opacity=".07"/>
+  <path d="M810 0v360M990 0v360M1170 0v360M760 90h520M760 180h520M760 270h520" stroke="#fff" opacity=".045"/>
+  <g font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif">
+    <rect x="64" y="48" width="118" height="29" rx="14.5" fill="#fff" opacity=".08"/>
+    <text x="123" y="68" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="2" fill="#bfd9ef">AI SHOP VIP</text>
+    <text x="62" y="150" font-size="51" font-weight="700" fill="#fff">ChatGPT 代充与订阅指南</text>
+    <text x="65" y="198" font-size="22" fill="#bfcce5">Plus / Pro · 充值流程 · 续费说明 · 常见问题</text>
+    <text x="65" y="289" font-size="26" font-weight="600" fill="url(#accent)">aishopvip.com</text>
+    <rect x="923" y="101" width="260" height="160" rx="20" fill="#fff" opacity=".055" stroke="#a6b5f4"/>
+    <text x="952" y="145" font-size="14" fill="#aebde0" letter-spacing="2">SUBSCRIPTION GUIDE</text>
+    <text x="951" y="194" font-size="34" font-weight="700" fill="#fff">Plus / Pro</text>
+    <path d="M954 222h156" stroke="#80dfe4" stroke-width="3" stroke-linecap="round"/>
+    <path d="m1135 214 9 9-9 9m-13-9h21" fill="none" stroke="#80dfe4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

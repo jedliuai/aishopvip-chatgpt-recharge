@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 订单、付款、充值与售后
+    url: https://aishopvip.com/
+    about: 请通过网站客服处理订单和账号问题；GitHub 仅接收文档反馈。
+  - name: ChatGPT 充值常见问题
+    url: https://github.com/jedliuai/aishopvip-chatgpt-recharge/blob/main/docs/faq.md
+    about: 先查看套餐选择、续费条件与交付问题的说明。

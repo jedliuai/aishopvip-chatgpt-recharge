@@ -1,0 +1,37 @@
+name: 文档纠错或补充
+description: 反馈错字、失效链接、过期截图或说明不清楚的地方。
+title: "[文档] "
+labels: [documentation]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢帮忙完善指南。订单和账号问题请走网站客服。
+        此处内容公开可见，请勿填写密码、验证码、会话令牌或完整订单信息。
+  - type: dropdown
+    id: category
+    attributes:
+      label: 问题类型
+      options:
+        - 链接失效
+        - 信息过期
+        - 说明不清楚
+        - 错字或排版
+        - 建议补充内容
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: 文档位置
+      description: 文档名、章节名或公开链接。
+      placeholder: 例如 README.md 的常见问题章节
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 问题与修改建议
+      description: 描述看到的情况；如有公开页面可作为依据，请附上链接。
+    validations:
+      required: true

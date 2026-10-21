@@ -1,0 +1,12 @@
+# Local work notes and browser inspection artifacts
+/worklog/
+/output/
+/.playwright/
+/.playwright-cli/
+
+# Local credentials and operating system files
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
