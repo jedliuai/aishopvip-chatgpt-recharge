@@ -1,3 +1,5 @@
+> **Chatgpt代充：[aishopvip.com](https://aishopvip.com)**
+
 <p align="center">
   <a href="https://aishopvip.com/">
     <img src="assets/banner.svg" alt="AIShopVIP · ChatGPT 代充、Plus / Pro 订阅与续费指南" width="1200">
