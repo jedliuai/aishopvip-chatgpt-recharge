@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="260" viewBox="0 0 620 260" role="img" aria-labelledby="title desc">
+  <title id="title">ChatGPT Pro 会员代充</title><desc id="desc">浏览当前 Pro 商品，了解订阅、充值与续费的商品说明。</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#251a3e"/><stop offset="1" stop-color="#121b32"/></linearGradient><radialGradient id="glow"><stop stop-color="#c59cff" stop-opacity=".2"/><stop offset="1" stop-color="#c59cff" stop-opacity="0"/></radialGradient></defs>
+  <rect x="1" y="1" width="618" height="258" rx="22" fill="url(#bg)" stroke="#64507d"/>
+  <ellipse cx="530" cy="80" rx="150" ry="130" fill="url(#glow)"/>
+  <path d="m512 55 12 30 32 12-32 12-12 30-12-30-32-12 32-12z" fill="none" stroke="#e8cdfd" stroke-width="3" opacity=".8"/>
+  <g font-family="'Microsoft YaHei','PingFang SC',sans-serif"><text x="34" y="45" font-size="12" letter-spacing="2.5" fill="#d5b5ed">CHATGPT SUBSCRIPTION</text><text x="31" y="102" font-size="43" font-weight="700" fill="#fffafd">ChatGPT Pro</text><text x="34" y="147" font-size="21" fill="#c7bfd5">会员代充 · 当前套餐 · 续费说明</text><path d="M34 175h550" stroke="#d7b5f3" opacity=".15"/><text x="34" y="222" font-size="20" font-weight="600" fill="#ebd1b3">浏览 Pro 与更多商品</text><path d="M548 212h25m-9-9 9 9-9 9" fill="none" stroke="#ebd1b3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

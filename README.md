@@ -2,19 +2,30 @@
 
 <p align="center">
   <a href="https://aishopvip.com/">
-    <img src="assets/banner.svg" alt="AIShopVIP · ChatGPT 代充、Plus / Pro 订阅与续费指南" width="1200">
+    <img src="assets/banner.svg?v=20261021-2" alt="AIShopVIP · ChatGPT Logo · Plus / Pro 会员代充、充值与续费" width="1280">
   </a>
 </p>
 
 # ChatGPT 代充与充值指南｜AIShopVIP
 
-**面向在 ChatGPT 订阅付款环节遇到困难的中文用户，整理 ChatGPT Plus / Pro 代充入口、充值流程、续费说明和常见问题。**
+<p align="center"><strong>ChatGPT Plus / Pro 会员服务 · 中文充值指南 · 店铺客服支持</strong></p>
+
+**面向在 ChatGPT 订阅付款环节遇到困难的中文用户，整理代充入口、充值流程、续费说明和常见问题。**
 
 [AIShopVIP（AI Shop VIP）](https://aishopvip.com/) 是本仓库介绍的代理店铺。可以在网站查看当前商品、适用账号条件、办理方式与售后说明，再选择适合自己的服务。
 
-**[访问网站](https://aishopvip.com/) · [查看商品与价格](https://aishopvip.com/products) · [先看充值指南](docs/recharge-guide.md) · [常见问题 FAQ](docs/faq.md)**
+<p align="center">
+  <strong><a href="https://aishopvip.com/">🌐 访问 AIShopVIP</a>　 · 　<a href="https://aishopvip.com/products">🛍️ 查看商品</a>　 · 　<a href="docs/recharge-guide.md">📖 充值指南</a>　 · 　<a href="docs/faq.md">💬 常见问题</a></strong>
+</p>
 
 简体中文 | [English](README.en.md)
+
+## 选择你的 ChatGPT 会员服务
+
+<p align="center">
+  <a href="https://aishopvip.com/products/chatgpt-plus"><img src="assets/plus-card.svg" alt="ChatGPT Plus 会员代充：查看商品详情与开通说明" width="49%"></a>
+  <a href="https://aishopvip.com/products"><img src="assets/pro-card.svg" alt="ChatGPT Pro 会员代充：查看当前商品与续费说明" width="49%"></a>
+</p>
 
 ## 快速找到你需要的内容
 
@@ -73,18 +84,6 @@
 ### ChatGPT Plus 和 Pro 都能在这里查看吗？
 
 网站当前展示两类相关商品。Plus 可查看 [商品详情](https://aishopvip.com/products/chatgpt-plus)，Pro 的可售套餐请查看 [商品中心](https://aishopvip.com/products)。
-
-### 已有订阅还能直接充值或升级吗？
-
-不一定。不同商品的覆盖充值、续费和升级条件不同。请先核对原订阅状态与商品说明，不确定时先联系客服。
-
-### 价格是多少，多久完成？
-
-请查看当前商品页面的价格和交付说明；本仓库不另行承诺固定价格或处理时间。
-
-### 这是 OpenAI 官方仓库吗？
-
-这是 AIShopVIP 代理店铺的服务介绍与使用指南，不是 OpenAI 官方项目。实际交易与服务在网站办理。
 
 更多问题见 **[完整 FAQ](docs/faq.md)**。
 
