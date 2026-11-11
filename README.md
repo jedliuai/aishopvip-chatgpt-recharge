@@ -91,7 +91,7 @@
 
 以下为网站公开展示的联系入口，页面如有更新，以网站为准：
 
-- **微信：** `jedliuai`
+- **微信：** `aasexgirl`
 - **Telegram：** [@jedliu8](https://t.me/jedliu8)
 - **最新通知：** [网站公告](https://aishopvip.com/notice)
 - **联系页面：** [联系店铺](https://aishopvip.com/about)
